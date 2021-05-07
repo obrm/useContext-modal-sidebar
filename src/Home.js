@@ -7,10 +7,10 @@ const Home = () => {
 
   return (
     <main>
-      <button className='sidebar-toggle' onClick={() => openSidebar()}>
+      <button className='sidebar-toggle' onClick={openSidebar}>
         <FaBars />
       </button>
-      <button className='btn' onClick={() => openModal()}>
+      <button className='btn' onClick={openModal}>
         show modal
       </button>
     </main>
