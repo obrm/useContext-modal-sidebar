@@ -1,4 +1,4 @@
-# Sidebar/Modal app
+# useContext Sidebar/Modal app
 
 ## [Live site preview.](https://obrm-sidebar-modal.netlify.app)
 
