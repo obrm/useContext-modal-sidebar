@@ -1,7 +1,11 @@
-# Sidebar/Modal
+# Sidebar/Modal app
 
-Sidebar/Modal utilized by the useContext hook.
+## [Live site preview.](https://obrm-sidebar-modal.netlify.app)
 
-Built as part of a [React course](https://www.udemy.com/course/react-tutorial-and-projects-course).
+#### React Course
 
-[Visit project site](https://obrm-sidebar-modal.netlify.app)
+[Taken from John Smilga's React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+
+#### Support John Smilga
+
+Find the App Useful? [You can always buy him a coffee.](https://www.buymeacoffee.com/johnsmilga)
